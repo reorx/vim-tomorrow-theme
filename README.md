@@ -9,3 +9,8 @@ Motivation:
 
 - Tomorrow Theme is not compatible with [base16](https://github.com/chriskempson/base1://github.com/chriskempson/base16)
   in iTerm2 with both base16-iterm2 and base16-shell, which I don't intent to fix in this repo.
+
+
+Backlogs:
+
+- [ ] The yellow is too close to green
